@@ -1,5 +1,4 @@
 #It's a basic calculator that we'll be improving the the knowledge we get from it
-    #7 - Log
 
 import os
 import math
